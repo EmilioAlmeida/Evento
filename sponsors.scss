@@ -1,0 +1,83 @@
+.titulo{
+    position: relative;
+    
+    h2{
+    color: blue;
+    }
+
+
+    .platinum{
+    display:inline-block;
+    position: relative;
+
+        img{
+            margin-top: .5em;
+        }    
+        
+         .cn{
+             width: 2em;
+             margin-right: .5em;
+         }
+    
+    
+        .britt{
+            width: 1.8em;
+            margin-left: 0.5em;
+            margin-right: 0.5em;
+        }  
+        .alitalia{
+            width:2em;
+            margin-left: .5em;
+        }  
+    }   
+
+        .gold{
+            margin-top: 1em;
+        display: inline-block;
+        position: relative;
+         
+           img{
+            margin-top: -.8em;
+           } 
+           .edc{
+               width: 2em;
+               margin-right: .5em;
+           }
+           .pasticcino{
+               width: 2em;
+               margin-left: .5em;
+               margin-right: .5em;
+           }
+           .easykit{
+               width: 2em;
+               margin-left: .5em;
+           }
+        } 
+
+
+
+           .silver{
+               margin-top: 1em;
+               display: inline-block;
+               position: relative;
+               
+               img{
+                margin-top: -.8em;
+               } 
+
+           .ius{
+               width: 3.3em;
+               margin-right: .5em;
+               margin-left: .5em;
+            }
+
+           .psolid{
+               width: 3.5em;
+               height: 1.8em;
+               margin-left: .5em;
+              }
+        }        
+        
+    
+
+}
